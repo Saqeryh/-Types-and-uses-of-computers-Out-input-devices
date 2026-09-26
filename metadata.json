@@ -1,0 +1,6 @@
+{
+  "name": "Super Coders: Ms. Bushra's Tech Mission",
+  "description": "An interactive computer lesson demonstration on computer types, input & output superpowers, and the Robot Challenge with Ms. Bushra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
